@@ -107,17 +107,17 @@ The dataset contains customer loan records including:
 
 Add your screenshots inside the images folder and replace the names below:
 
-![doc2](images/doc2.png)
+![doc2](doc2.png)
 
-![doc3](images/doc3.png)
+![doc3](doc3.png)
 
-![doc4](images/doc4.png)
+![doc4](doc4.png)
 
-![doc5](images/doc5.png)
+![doc5](doc5.png)
 
-![doc6](images/doc6.png)
+![doc6](doc6.png)
 
-![doc7](images/doc7.png)
+![doc7](doc7.png)
 
 ---
 
