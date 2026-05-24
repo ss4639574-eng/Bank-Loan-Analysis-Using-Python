@@ -121,7 +121,7 @@ Add your screenshots inside the images folder and replace the names below:
 
 ---
 
-## 🔍 Key Insights
+## 🔍  Key Insights
 
 - Total loan applications processed exceeded **38K+** applications.
 - Total funded loan amount reached approximately **$435.8M**.
